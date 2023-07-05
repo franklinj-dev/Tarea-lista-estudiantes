@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(./imagen/utiles-escolares-alrededor-caballete.jpg);
+    background-size: 100% auto;
+}
+
+.student-item{
+    text-align: center;
+    position: relative;
+    list-style: none;
+    top: 150px;
+
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+}
